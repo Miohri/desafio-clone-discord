@@ -28,3 +28,28 @@ header {
 #button1, #button2 {
     width: 381px;
 }
+
+section {
+    margin: 0;
+}
+
+.section-1 {
+    height: 573px;
+    flex-direction: column;
+}
+
+.section-1>img {
+    width: 379px;
+    height: 252px;
+}
+
+.section-1-text>h2 {
+    width: 370px;
+    height: 99px;
+    font-size: 24px;
+}
+
+.section-1-text>p {
+    width: 378px;
+    height: 88px;
+}
