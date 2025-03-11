@@ -43,13 +43,36 @@ section {
     height: 252px;
 }
 
+h2 {
+    font-size: 24px;
+}
+
 .section-1-text>h2 {
     width: 370px;
     height: 99px;
-    font-size: 24px;
 }
 
 .section-1-text>p {
     width: 378px;
     height: 88px;
+}
+
+.section-2 {
+    height: 507px;
+    flex-direction: column-reverse;
+}
+
+.section-2>img {
+    width: 379px;
+    height: 252px;
+}
+
+.section-2-text>h2 {
+    width: 379px;
+    height: 33px;
+}
+
+.section-2-text>p {
+    width: 378px;
+    height: 88px; 
 }
