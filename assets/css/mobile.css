@@ -1,0 +1,30 @@
+header {
+    height: 505px;
+}
+
+.header-content {
+    padding: 0 24px;  
+    align-items: flex-start;
+    gap: 24px;      
+}
+
+.header-content>h1 {
+    width: 278px;
+    font-size: 32px;
+    text-align: start;
+}
+
+.header-content>p {
+    width: 381px;
+    text-align: start;
+}
+
+.header-buttons {
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+}
+
+#button1, #button2 {
+    width: 381px;
+}
