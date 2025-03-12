@@ -58,13 +58,17 @@ h2 {
 }
 
 .section-2 {
-    height: 507px;
+    height: auto;
     flex-direction: column-reverse;
 }
 
 .section-2>img {
     width: 379px;
     height: 252px;
+}
+
+.section-2-text {
+    height: auto;
 }
 
 .section-2-text>h2 {
@@ -75,4 +79,59 @@ h2 {
 .section-2-text>p {
     width: 378px;
     height: 88px; 
+}
+
+.section-3 {
+    height: 507px;
+    flex-direction: column;
+}
+
+.section-3>img {
+    width: 379px;
+    height: 252px;
+}
+
+.section-3-text {
+    height: auto;
+}
+
+.section-3-text>h2 {
+    width: 373px;
+    height: 33px;
+}
+
+.section-3-text>p {
+    width: 378px;
+    height: 88px;
+}
+
+.section-4 {
+    height: 506px;
+}
+
+.section-4>h2 {
+    width: 376px;
+    height: 64px;
+    text-align: start;
+    font-size: 32px;
+}
+
+.section-4>p {
+    width: 378px;
+    height: 110px;
+    text-align: start;
+}
+
+.section-4>img {
+    width: 379px;
+    height: 252px;
+}
+
+footer {
+    height: 140px;
+}
+
+footer>img {
+    width: 162px;
+    height: 45px;
 }

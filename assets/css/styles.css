@@ -138,3 +138,76 @@ h2 {
     width: 607px;
     height: 394px;
 }
+
+.section-3 {
+    height: 448px;
+    gap: 16px;
+}
+
+.section-3>img {
+    width: 607px;
+    height: 394px;
+}
+
+.section-3-text {
+    width: 351px;
+    height: 234px;
+ 
+}
+
+.section-3-text>h2 {
+    width: 329px;
+    height: 108px;
+    margin: 0%;
+}
+
+.section-3-text>p {
+    width: 348px;
+    height: 110px;
+}
+
+.section-4 {
+    height: 744px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.section-4>h2 {
+    width: 608px;
+    height: 80px;
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #23272A;
+    font-size: 40px;
+    text-align: center;
+}
+
+.section-4>p {
+    width: 802px;
+    height: 44px;
+    font-family: "Open Sans", sans-serif;
+    color: #23272A;
+    text-align: center;
+}
+
+.section-4>img {
+    width: 784px;
+    height: 508px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 134px;
+    background-color: #23272A;
+}
+
+footer>img {
+    width: 230px;
+    height: 63px;
+}
